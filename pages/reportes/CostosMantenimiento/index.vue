@@ -1582,6 +1582,9 @@ export default {
         ]
       },
       options: {
+        animation: {
+          duration: 0
+        },
         responsive: true,
         lineTension: 1,
         scales: {
